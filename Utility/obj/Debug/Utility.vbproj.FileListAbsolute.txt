@@ -1,0 +1,28 @@
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\Utility\obj\Debug\Utility.pdb

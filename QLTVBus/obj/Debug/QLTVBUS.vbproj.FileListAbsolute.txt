@@ -1,0 +1,64 @@
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.dll
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.pdb
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.xml
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.Resources.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.dll
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.xml
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.Resources.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbprojResolveAssemblyReference.cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\Utility.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\Utility.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbprojResolveAssemblyReference.cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.Resources.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbproj.GenerateResource.Cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVBus\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVBus.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDAL.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\QLTVDTO.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.Resources.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbproj.GenerateResource.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbproj.CoreCompileInputs.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBUS.vbproj.CopyComplete
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVBus\obj\Debug\QLTVBus.pdb

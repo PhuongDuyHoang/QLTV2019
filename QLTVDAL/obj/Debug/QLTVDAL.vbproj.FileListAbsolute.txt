@@ -1,0 +1,56 @@
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.dll
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.pdb
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.xml
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.Resources.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.dll
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.xml
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.pdb
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbprojResolveAssemblyReference.cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbprojResolveAssemblyReference.cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.Resources.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbprojResolveAssemblyReference.cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.Resources.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbproj.GenerateResource.Cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDAL.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\QLTVDTO.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.Resources.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbproj.GenerateResource.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbproj.CoreCompileInputs.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.vbproj.CopyComplete
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\QLTV-master\QLTV-master\QuanLyThuVien\QLTVDAL\obj\Debug\QLTVDAL.pdb

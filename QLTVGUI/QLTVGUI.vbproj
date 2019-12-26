@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{60076420-FA34-4712-99D6-CC942103ECEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLTVGUI</RootNamespace>
+    <AssemblyName>QLTVGUI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QLTVGUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QLTVGUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>QLTVGUI.splashScreen</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.vb" />
+    <Compile Include="frmHome.Designer.vb">
+      <DependentUpon>frmHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="splashScreen.Designer.vb">
+      <DependentUpon>splashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="splashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ucBaoCao.Designer.vb">
+      <DependentUpon>ucBaoCao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBaoCao.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBaoCaoSachMuon.Designer.vb">
+      <DependentUpon>ucBaoCaoSachMuon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBaoCaoSachMuon.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBaoCaoSachTre.Designer.vb">
+      <DependentUpon>ucBaoCaoSachTre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBaoCaoSachTre.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucChoMuonSach.Designer.vb">
+      <DependentUpon>ucChoMuonSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucChoMuonSach.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucLapTheDocGia.Designer.vb">
+      <DependentUpon>ucLapTheDocGia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucLapTheDocGia.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNhanTraSach.Designer.vb">
+      <DependentUpon>ucNhanTraSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucNhanTraSach.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucThayDoiQuyDinh.Designer.vb">
+      <DependentUpon>ucThayDoiQuyDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucThayDoiQuyDinh.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucThuVien.Designer.vb">
+      <DependentUpon>ucThuVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucThuVien.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTiepNhanSachMoi.Designer.vb">
+      <DependentUpon>ucTiepNhanSachMoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucTiepNhanSachMoi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTraCuuSach.Designer.vb">
+      <DependentUpon>ucTraCuuSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucTraCuuSach.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splashScreen.resx">
+      <DependentUpon>splashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBaoCao.resx">
+      <DependentUpon>ucBaoCao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBaoCaoSachMuon.resx">
+      <DependentUpon>ucBaoCaoSachMuon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBaoCaoSachTre.resx">
+      <DependentUpon>ucBaoCaoSachTre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucChoMuonSach.resx">
+      <DependentUpon>ucChoMuonSach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucLapTheDocGia.resx">
+      <DependentUpon>ucLapTheDocGia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNhanTraSach.resx">
+      <DependentUpon>ucNhanTraSach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucThayDoiQuyDinh.resx">
+      <DependentUpon>ucThayDoiQuyDinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucThuVien.resx">
+      <DependentUpon>ucThuVien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTiepNhanSachMoi.resx">
+      <DependentUpon>ucTiepNhanSachMoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTraCuuSach.resx">
+      <DependentUpon>ucTraCuuSach.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\blankpage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blankpage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Close_Window_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Minimize_Window_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Maximize_Window_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Menu_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Books.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Books_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Books1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Books_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Add_User_Male_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Remove_Book_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Search_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Enter_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Import_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Borrow_Book_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Return_Book_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Increase_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Term_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Combo_Chart_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Sort_Right_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13312.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Save_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Ok_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Export_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3132.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Download_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Plus_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_circle_white_54x54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_circle_black_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_circle_grey_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus-sign-inside-a-black-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Support_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6452.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact-divider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Info_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QLTVBus\QLTVBUS.vbproj">
+      <Project>{6a671c80-7ed5-430a-879d-6c5fb7eb40ce}</Project>
+      <Name>QLTVBUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLTVDTO\QLTVDTO.vbproj">
+      <Project>{eee6bb5a-d04c-4671-9d73-d1b3be6ce0f3}</Project>
+      <Name>QLTVDTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.vbproj">
+      <Project>{f1e1a736-60a9-428b-a3cf-4296edd63af3}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Search1_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Combo_Chart1_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Course_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Course.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\files-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36336054_798363663702632_2571347381962407936_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Male_User_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36430347_798557037016628_946792645248679936_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36430347_798557037016628_946792645248679936_n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36336054_798363663702632_2571347381962407936_n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
